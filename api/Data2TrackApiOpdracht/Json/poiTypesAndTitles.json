@@ -1,0 +1,32 @@
+{
+    "pois":[{
+        "poiId": 1,
+        "title": "Dignissim",
+        "type": 1
+    },
+    {
+        "poiId": 2,
+        "title": "Maecenas",
+        "type": 1
+    },
+    {
+        "poiId": 3,
+        "title": "Accumsan",
+        "type": 2
+    },
+    {
+        "poiId": 4,
+        "title": "Mattis",
+        "type": 1
+    },
+    {
+        "poiId": 5,
+        "title": "Pretium",
+        "type": 2
+    },
+    {
+        "poiId": 6,
+        "title": "Libero",
+        "type": 2
+    }]
+}
